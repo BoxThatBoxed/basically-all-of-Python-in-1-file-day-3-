@@ -10,7 +10,7 @@
 
 #Integer (int) data type:
 
-#age = 9
+#age = 25
 #age = age + 1
 #print ("Your age is:"+str(age))
 #print (type(age))
